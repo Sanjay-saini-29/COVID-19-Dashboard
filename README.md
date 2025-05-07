@@ -66,3 +66,23 @@ Microsoft Excel (for raw data handling and cleaning)
 
 Data Sources: Simulated or Government of India COVID-19 datasets
 </p>
+<h2>
+📈 Insights
+  </h2>
+  <p>
+Most impacted state: Maharashtra
+
+Highest recovery rate across all demographics.
+
+Male population shows higher death count than female.
+
+Senior citizens are the most vulnerable age group.
+</p>
+<h2>
+🙌 Acknowledgements
+  </h2>
+  <p>
+Thanks to Government of India datasets and WHO for COVID-19 public data.
+
+This project is built to help others understand and explore the spread and trends of the pandemic through interactive visual storytelling.
+</p>
