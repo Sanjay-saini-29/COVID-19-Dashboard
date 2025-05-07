@@ -87,4 +87,4 @@ Thanks to Government of India datasets and WHO for COVID-19 public data.
 
 This project is built to help others understand and explore the spread and trends of the pandemic through interactive visual storytelling.
 </p>
-Snap Link https://github.com/Sanjay-saini-29/COVID-19-Dashboard/blob/main/Snap%20Of%20a%20Dashboard.png
+Snap Link (https://github.com/Sanjay-saini-29/COVID-19-Dashboard/blob/main/Snap%20Of%20a%20Dashboard.png)
