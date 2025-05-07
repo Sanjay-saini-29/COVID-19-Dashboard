@@ -60,7 +60,7 @@ Key Highlights:
 🛠 Tools Used
   </h2>
   <p>
-Power BI (or Tableau, if applicable)
+Power BI 
 
 Microsoft Excel (for raw data handling and cleaning)
 
@@ -81,6 +81,8 @@ Senior citizens are the most vulnerable age group.
 <h2>
 🙌 Acknowledgements
   </h2>
+
+  snap link ""
   <p>
 Thanks to Government of India datasets and WHO for COVID-19 public data.
 
