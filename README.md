@@ -10,18 +10,25 @@ This project is a visual and analytical representation of COVID-19 statistics ac
 </p>
 
 Developed using data visualization tools (Power BI/Tableau), this project helps in understanding the pandemic’s effects more clearly and supports data-driven decisions and awareness.
-
+<h2>
 📊 Features
+  </h2>
+  <h2>
 KPI Cards:
-
+</h2>
+<h3>
 Total Population Analyzed
+
 
 Total Cases, Recovered Cases, Active Cases
 
 Total Deaths, Fatality Rate (%), and Recovery Rate (%)
-
+</h3>
+<h2>
 Visual Insights:
+</h2>
 
+<h3>
 Pie charts showing:
 
 Deaths by Type of Medical Support
@@ -33,9 +40,13 @@ Deaths by Age Group
 Treemap of Total Cases by State and corresponding death counts
 
 State-wise selection for targeted analysis
+</h3>
 
+<h2>
 Key Highlights:
+</h2>
 
+<h2>
 ✅ Recovery Rate: 98.18%
 
 ⚰️ Fatality Rate: 1.82%
@@ -43,10 +54,15 @@ Key Highlights:
 👥 Population Analyzed: 3,99,001
 
 ⚠️ Active Cases (current): 214
+</h2>
 
+<h2>
 🛠 Tools Used
+  </h2>
+  <h2>
 Power BI (or Tableau, if applicable)
 
 Microsoft Excel (for raw data handling and cleaning)
 
 Data Sources: Simulated or Government of India COVID-19 datasets
+</h2>
